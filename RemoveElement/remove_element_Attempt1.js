@@ -21,7 +21,7 @@ function removeElement (nums,val) {
         }
     }
 
-    return resultArr.length;
+    return resultArr;
 }
 
 console.log(removeElement(nums,val));
